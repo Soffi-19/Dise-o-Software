@@ -25,7 +25,7 @@ de camisas y busos oversize. La aplicación debe registrar el precio de cada una
 
 # Descripción
  
-El sistema debe registra la venta por día y gestionar el stock de las prendas. 
+El sistema debe registra la venta por día y gestionar cada una de las prendas. 
 
 # Requisitos del Sistema
 •	**Registro de Precios:** Configurar el nombre y precio unitario de camisas y busos oversize.
