@@ -85,7 +85,7 @@ Postcondición: El total de ventas del día ha sido calculado y el stock de pren
     Asignar: numeroPrendas
 
     Para i = 0 hasta numeroPrendas - 1, 1
-        Imprimir: 'Nombre de la prenda (ej: Camisa Oversize):'
+        Imprimir: 'Nombre de la prenda:'
         Asignar: nombre
         Imprimir: 'Precio unitario de venta:'
         Asignar: precio
