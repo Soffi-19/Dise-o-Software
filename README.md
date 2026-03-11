@@ -45,7 +45,7 @@ El sistema debe registra la venta por día y gestionar el stock de las prendas.
 
 # Diagrama UML
 
-<img width="741" height="416" alt="Diagrama uml" src="https://github.com/user-attachments/assets/97f06dba-c7bf-4a93-94d0-5f2d93e48bff" />
+![Use Case Diagram](https://github.com/user-attachments/assets/edf06edf-aa36-4fc7-9cdd-02742bf8019a)
 
 
 # Caso de uso extendido
